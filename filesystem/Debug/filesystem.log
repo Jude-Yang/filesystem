@@ -1,0 +1,5 @@
+﻿  fun.cpp
+d:\code\c or c++\filesystem\filesystem\fun.cpp(920): warning C4101: “buf”: 未引用的局部变量
+d:\code\c or c++\filesystem\filesystem\fun.cpp(919): warning C4101: “p3”: 未引用的局部变量
+  filesystem.vcxproj -> D:\Code\C or C++\filesystem\Debug\filesystem.exe
+  filesystem.vcxproj -> D:\Code\C or C++\filesystem\Debug\filesystem.pdb (Partial PDB)
