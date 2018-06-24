@@ -31,7 +31,7 @@
 #define FILE_DEF_PERMISSION 0664			//文件默认权限
 #define DIR_DEF_PERMISSION	0755			//目录默认权限
 
-#define FILESYSNAME	"MingOS.sys"			//虚拟磁盘文件名
+#define FILESYSNAME	"file.sys"			//虚拟磁盘文件名
 
 
 //结构体声明
